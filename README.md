@@ -1,6 +1,7 @@
 # Analysis Tools for Nanopore & PacBio Sequencing Data
 **Morning Session - VICGB-2025 Pre-Conference Workshop**
 
+<<<<<<< HEAD
 ## 🎯 Workshop Overview
 This hands-on workshop introduces cutting-edge bioinformatics tools for analyzing long-read sequencing data from Nanopore and PacBio platforms. Participants will gain practical experience with experimental design, data processing pipelines, and downstream analyses.
 
@@ -42,7 +43,7 @@ Hands-on experience with Oxford Nanopore Technologies data for de novo genome as
 
 ## 📎 Resources & Materials
 
-- 🖥️ **Workshop Slides:** [Download/View Here](LINK_PPTX)
+- 🖥️ **Workshop Slides:** [Download/View Here]([https://docs.google.com/presentation/d/1cc8zC95dhKWMAQm75K-cX9exWVtSFDdP/edit?usp=sharing&ouid=114496420157824171878&rtpof=true&sd=true])
 - 🚀 **Practice 1 - PacBio 16S Analysis:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gl0q-Bsdq04qxsyNesZH9sWWAKDKj_cD?usp=sharing)
 - 🚀 **Practice 2 - ONT De Novo Assembly:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H3-G8PlufB9mhhvAFun9iTeavqPIFumi?usp=sharing)
 
@@ -58,3 +59,5 @@ This workshop is part of the **Pre-conference Bioinformatics Satellite Workshop:
 
 ---
 *For more information about VICGB-2025, visit the
+
+Email: luu.p.loi@googlemail.com
