@@ -1,7 +1,6 @@
 # Analysis Tools for Nanopore & PacBio Sequencing Data
 **Morning Session - VICGB-2025 Pre-Conference Workshop**
 
-<<<<<<< HEAD
 ## 🎯 Workshop Overview
 This hands-on workshop introduces cutting-edge bioinformatics tools for analyzing long-read sequencing data from Nanopore and PacBio platforms. Participants will gain practical experience with experimental design, data processing pipelines, and downstream analyses.
 
