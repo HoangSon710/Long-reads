@@ -25,17 +25,17 @@ Thong Nhat Hospital, Viet Nam
 | Time | Activity |
 |------|----------|
 | 8:45-9:15 | **Session 1:** Introduction to Long-Read Sequencing Technology and Platforms |
-| 9:15-10:00 | **Practice 1:** PacBio 16S Full-length Analysis |
-| 10:00-10:15 | **Practice 2:** ONT De Novo Assembly |
+| 9:15-10:00 | **Practice 1:** ONT 16S Full-length Analysis |
+| 10:00-10:15 | **Practice 2:** ONT De Novo Assembly (part 1) |
 | 10:15-10:30 | ☕ Tea Break |
-| 10:30-11:20 | **Practice 2 (continued):** ONT De Novo Assembly |
+| 10:30-11:20 | **Practice 2 (continued):** ONT De Novo Assembly (part 2) |
 | 11:20-11:40 | Discussion and Interpretation of Practice 1 Results |
 | 11:40-12:00 | Discussion and Interpretation of Practice 2 Results |
 
 ## 🛠️ Practical Sessions
 
-### Practice 1: PacBio 16S Full-length Analysis
-Learn to analyze full-length 16S rRNA sequences using PacBio technology for microbial community profiling.
+### Practice 1: ONT 16S Full-length Analysis
+Learn to analyze full-length 16S rRNA sequences using ONT technology for microbial community profiling.
 
 ### Practice 2: ONT De Novo Assembly
 Hands-on experience with Oxford Nanopore Technologies data for de novo genome assembly workflows.
@@ -43,7 +43,7 @@ Hands-on experience with Oxford Nanopore Technologies data for de novo genome as
 ## 📎 Resources & Materials
 
 - 🖥️ **Workshop Slides:** [Download/View Here](https://docs.google.com/presentation/d/1cc8zC95dhKWMAQm75K-cX9exWVtSFDdP/edit?usp=sharing&ouid=114496420157824171878&rtpof=true&sd=true)
-- 🚀 **Practice 1 - PacBio 16S Analysis:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gl0q-Bsdq04qxsyNesZH9sWWAKDKj_cD?usp=sharing)
+- 🚀 **Practice 1 - ONT 16S Analysis:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gl0q-Bsdq04qxsyNesZH9sWWAKDKj_cD?usp=sharing)
 - 🚀 **Practice 2 - ONT De Novo Assembly:** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1H3-G8PlufB9mhhvAFun9iTeavqPIFumi?usp=sharing)
 
 ## 📝 Registration Information
